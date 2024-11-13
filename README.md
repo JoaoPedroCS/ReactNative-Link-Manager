@@ -17,7 +17,9 @@ Bem-vindo ao projeto **Gerenciador de Links**, um aplicativo em React Native fei
 
 ## 📸 Demonstração
 
-![Adicionar links com categorias personalizadas](readmeAssets/add.png)
+Veja a tela principal do aplicativo:
+
+<img src="assets/screenshot.png" alt="Tela Principal do App" width="300" />
 
 
 ## 📂 Estrutura do Projeto
