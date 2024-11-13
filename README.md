@@ -19,7 +19,7 @@ Bem-vindo ao projeto **Gerenciador de Links**, um aplicativo em React Native fei
 
 Tela de adicionar
 
-<img src="/readmeAssets/add.png" alt="Tela Principal do App" width="300" />
+<img src="/readmeAssets/add.png" alt="Tela 1" width="300" style="display: inline-block; margin-right: 20px;" />
 
 <img src="/readmeAssets/delete.png" alt="Tela Principal do App" width="300" />
 
