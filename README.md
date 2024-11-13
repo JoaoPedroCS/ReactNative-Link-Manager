@@ -13,7 +13,6 @@ Bem-vindo ao projeto **Gerenciador de Links**, um aplicativo em React Native fei
 
 - **React Native**: Framework principal para o desenvolvimento de interfaces nativas.
 - **Expo**: Plataforma que simplifica o desenvolvimento e deploy de apps em React Native.
-- **Context API**: Para gerenciamento de estado das categorias e links.
 - **AsyncStorage**: Para salvar os links e categorias localmente no dispositivo.
 
 ## 📸 Demonstração
