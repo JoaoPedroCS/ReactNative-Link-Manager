@@ -1,6 +1,6 @@
 # 📚 Gerenciador de Links
 
-Bem-vindo ao projeto **Gerenciador de Links**, um aplicativo em React Native feito para organizar e gerenciar links por categorias, como cursos, artigos e muito mais! Esse projeto foi desenvolvido principalmente para fins de aprendizado, explorando as principais funcionalidades do React Native e o uso do Expo.
+Bem-vindo ao projeto **Gerenciador de Links**, um aplicativo em React Native feito para organizar e gerenciar links por categorias, como cursos, artigos e muito mais! Esse projeto foi desenvolvido principalmente para fins de aprendizado por meio das aulas da Rocket Seat, explorando as principais funcionalidades do React Native e o uso do Expo.
 
 ## 🚀 Funcionalidades
 
@@ -25,8 +25,8 @@ Adicione uma captura de tela do aplicativo aqui para ilustrar sua funcionalidade
 ```bash
 ├── assets
 ├── src
-│   ├── components       # Componentes reutilizáveis (botões, listas, etc.)
-│   ├── screens          # Telas principais do app (Home, Categorias, etc.)
+│   ├── app       # Paginas do Aplicativo
+│   ├── assets          # Telas principais do app (Home, Categorias, etc.)
 │   ├── navigation       # Configuração de navegação entre telas
 │   ├── context          # Contextos para gerenciar o estado global
 │   ├── utils            # Funções utilitárias e helpers
