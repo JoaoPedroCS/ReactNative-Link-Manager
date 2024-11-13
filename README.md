@@ -24,10 +24,10 @@ Adicione uma captura de tela do aplicativo aqui para ilustrar sua funcionalidade
 ```bash
 ├── assets
 ├── src
-│   ├── app       # Paginas do Aplicativo
-│   ├── assets          # Telas principais do app (Home, Categorias, etc.)
-│   ├── navigation       # Configuração de navegação entre telas
-│   ├── context          # Contextos para gerenciar o estado global
+│   ├── app             # Paginas do Aplicativo
+│   ├── assets          # Logo do App
+│   ├── components      # componentes padroes como botões e inputs
+│   ├── storage         # Por meio do Async, permite armazenar funções que salvam/atualizam/removem os links
 │   ├── utils            # Funções utilitárias e helpers
 │   └── services         # Serviços para manipulação de dados
 └── App.js               # Arquivo principal do app
