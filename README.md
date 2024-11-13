@@ -17,15 +17,9 @@ Bem-vindo ao projeto **Gerenciador de Links**, um aplicativo em React Native fei
 
 ## 📸 Demonstração
 
-Tela de adicionar
+Tela do aplicativo:
 
-<img src="/readmeAssets/add.png" alt="Tela 1" width="100" style="display: flex" />
-
-<img src="/readmeAssets/delete.png" alt="Tela 2" width="100" style="display: flex" />
-
-<img src="/readmeAssets/diff.png" alt="Tela Principal do App" width="300" />
-
-<img src="/readmeAssets/main.png" alt="Tela Principal do App" width="300" />
+<img src="/readmeAssets/ex.png" alt="Tela Principal do App" width="500" />
 
 
 ## 📂 Estrutura do Projeto
