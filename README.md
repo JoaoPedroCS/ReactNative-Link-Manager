@@ -28,6 +28,5 @@ Adicione uma captura de tela do aplicativo aqui para ilustrar sua funcionalidade
 │   ├── assets          # Logo do App
 │   ├── components      # componentes padroes como botões e inputs
 │   ├── storage         # Por meio do Async, permite armazenar funções que salvam/atualizam/removem os links
-│   ├── utils            # Funções utilitárias e helpers
-│   └── services         # Serviços para manipulação de dados
-└── App.js               # Arquivo principal do app
+│   ├── utils           # Funções utilitárias e helpers
+│   └── styles          # Onde é guardado as cores padrões do app
