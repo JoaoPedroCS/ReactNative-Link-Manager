@@ -24,9 +24,9 @@ Adicione uma captura de tela do aplicativo aqui para ilustrar sua funcionalidade
 ```bash
 ├── assets
 ├── src
-│   ├── app             # Paginas do Aplicativo
-│   ├── assets          # Logo do App
-│   ├── components      # componentes padroes como botões e inputs
-│   ├── storage         # Por meio do Async, permite armazenar funções que salvam/atualizam/removem os links
-│   ├── utils           # Funções utilitárias e helpers
-│   └── styles          # Onde é guardado as cores padrões do app
+    ├── app             # Paginas do Aplicativo
+    ├── assets          # Logo do App
+    ├── components      # componentes padroes como botões e inputs
+    ├── storage         # Por meio do Async, permite armazenar funções que salvam/atualizam/removem os links
+    ├── utils           # Funções utilitárias e helpers
+    └── styles          # Onde é guardado as cores padrões do app
