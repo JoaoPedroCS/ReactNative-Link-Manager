@@ -17,7 +17,7 @@ Bem-vindo ao projeto **Gerenciador de Links**, um aplicativo em React Native fei
 
 ## 📸 Demonstração
 
-![Adicionar links com categorias personalizadas](readmeAssets/add.PNG.png)
+![Adicionar links com categorias personalizadas](readmeAssets/add.png)
 
 
 ## 📂 Estrutura do Projeto
